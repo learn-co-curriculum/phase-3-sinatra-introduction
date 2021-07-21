@@ -1,4 +1,4 @@
-# Introduction to Sinatra
+# Introduction to Web APIs with Sinatra
 
 This is it, the last section of Phase 3! We've learned a lot along the way: you
 now know a whole new programming language, Ruby, as well as how to write Object
@@ -7,7 +7,7 @@ work, as well as how to use Ruby to interact with relational databases by using
 an ORM like Active Record.
 
 This last section is where it all comes together, and we start building a **web
-server** so that we can finally make a full-stack application! By the end of the
+API** so that we can finally make a full-stack application! By the end of the
 section, you'll be able to produce a web API server that can **receive
 requests** from a frontend application, such as React, and send back a **JSON
 response** that takes data from the database using your Active Record models.
@@ -17,7 +17,7 @@ means to be a back-end developer. You'll learn:
 
 - How the request-response cycle works on a server
 - How to handle requests from different routes
-- One common file structure for a web server
+- A common file structure for a web server
 - How to both send and receive JSON-formatted data
 
 While you could spend weeks alone learning Sinatra, in this section, we'll cover
