@@ -1,8 +1,8 @@
 # Introduction to Web APIs with Sinatra
 
 This is it, the last section of Phase 3! We've learned a lot along the way: you
-now know a whole new programming language, Ruby, as well as how to write object-
-oriented code. You've also learned a bit of SQL and how relational databases
+now know a whole new programming language, Ruby, as well as how to write 
+object-oriented code. You've also learned a bit of SQL and how relational databases
 work, as well as how to use Ruby to interact with relational databases by using
 an ORM like Active Record.
 
